@@ -18,3 +18,10 @@ data/
 infer_viz/
 obs_viz/
 src/
+demo_outputs/
+
+!checkpoints/
+!checkpoints/v38_5d_mlp.pth
+!checkpoints/v47_5d_lstm.pth
+!checkpoints/v48_3d_mlp.pth
+!checkpoints/v49_3d_lstm.pth
